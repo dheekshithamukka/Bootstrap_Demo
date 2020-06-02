@@ -1,0 +1,134 @@
+body{
+    background-color: black;
+}
+img{
+    border-radius: 50%;
+}
+.jumbotron{
+    margin-left: 80px;
+    margin-top: 25px;
+    width: 87%;
+    background-image: linear-gradient(red, yellow);
+}
+li{
+    margin-left: 10px;
+}
+#contact .card:hover i,#contact .card:hover h4{
+    
+    color: white;
+}
+#fancy-title-5 {
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    font-size: 48px;
+    color: black;
+    text-align: center;
+    font-style: inherit;
+    font-weight: bold;
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.r2{
+    margin-top: -380px;
+    margin-left: 430px;
+}
+.r3{
+    margin-left: 780px;
+    margin-top: -410px;
+}
+.r1{
+    margin-left: 100px;
+}
+.contact{
+    margin-left: 80px;
+    width: 87%;
+    height: 700px;
+    background-color:#005051;
+}
+.mk-box-icon-2 svg {
+    vertical-align: middle;
+}
+.mk-svg-icon {
+    fill: currentColor;
+}
+
+.logos {
+    margin: 58px auto 116px;
+}
+
+.logos .face {
+    color: #36508c;
+}
+.addthis_inline_follow_toolbox{
+    margin-top: 70px;
+    margin-left: 0px;
+    color: white;
+}
+
+.button {
+    font-size: 12px;
+   }
+   
+   .info{
+   margin-left: 143px;
+   
+   }
+
+
+   .c{
+    background-color: #45497b;
+    width: 1120px;
+    margin-left: -8px;
+    margin-top:20px;
+    height: 680px;
+    }
+    p.contact1{
+    margin-left: 450px;
+    font-size: 40px;
+    color: #fff;
+    }
+    .contact1{
+    color: lightgrey;
+    font-size: 17px;
+    }
+    label{
+        margin-left: -100px;
+        color: white;
+    }
+    input{
+    width: 400px;
+    background-color:#45497b;
+    height: 30px;
+    font-size: 14px;
+    color: lightgrey;
+    border: 2px solid white;
+    margin-left:-100px;
+    }
+    small{
+        margin-left: -100px;
+
+    }
+    form{
+    margin-left: 200px;
+    }
+    ::placeholder{
+        color: white;
+        font-size: 12px;
+    }
+    .info{
+    margin-top: -400px;
+    margin-left: 780px;
+    }
+    textarea{
+    width: 800px;
+    background-color: #45497b;
+    color: white;
+    border: 2px solid white;
+    font-size: 12px;
+    margin-left: -100px;
+    }
+    .btn-success{
+        margin-left: -100px;
+        margin-top: 8px;
+    }
+   
